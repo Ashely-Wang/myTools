@@ -1,0 +1,13 @@
+cpu型号，主频：
+Processor ID: CPU0
+Process Name: AMD Ryzen 3 1200 Quad-Core Processor
+
+内存大小：
+Memory Capacity: 8193.00MB
+
+硬盘使用情况：网卡驱动信息：Realtek PCIe GBE Family Controller
+网卡MAC地址：00:E0:4C:14:4A:9A
+网卡驱动信息：VMware Virtual Ethernet Adapter for VMnet1
+网卡MAC地址：00:50:56:C0:00:01
+IP地址：192.168.206.1
+外网IP接口fe80::6c11:cac0:1c9:d91
